@@ -1,0 +1,7 @@
+﻿  IPSServer.cpp
+D:\BGYIR\3kyrs\6sem\ISOB\Chat\IPSServer\IPSServer\IPSServer.cpp(82,54): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\BGYIR\3kyrs\6sem\ISOB\Chat\IPSServer\IPSServer\IPSServer.cpp(113,71): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\BGYIR\3kyrs\6sem\ISOB\Chat\IPSServer\IPSServer\IPSServer.cpp(183,67): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\BGYIR\3kyrs\6sem\ISOB\Chat\IPSServer\IPSServer\IPSServer.cpp(195,63): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\BGYIR\3kyrs\6sem\ISOB\Chat\IPSServer\IPSServer\IPSServer.cpp(202,71): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  IPSServer.vcxproj -> D:\BGYIR\3kyrs\6sem\ISOB\Chat\IPSServer\x64\Debug\IPSServer.exe

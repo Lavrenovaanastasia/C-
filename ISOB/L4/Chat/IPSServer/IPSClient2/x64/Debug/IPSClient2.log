@@ -1,0 +1,3 @@
+﻿  IPSClient2.cpp
+D:\BGYIR\3kyrs\6sem\ISOB\Chat\IPSServer\IPSClient2\IPSClient2.cpp(32,57): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  IPSClient2.vcxproj -> D:\BGYIR\3kyrs\6sem\ISOB\Chat\IPSServer\x64\Debug\IPSClient2.exe

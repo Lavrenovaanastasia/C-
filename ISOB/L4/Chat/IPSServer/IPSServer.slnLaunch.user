@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "IPSServer\\IPSServer.vcxproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "IPSClient\\IPSClient.vcxproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "IPSClient2\\IPSClient2.vcxproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Atac\\Atac.vcxproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
