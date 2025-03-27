@@ -1,0 +1,4 @@
+﻿  KerberosProject.cpp
+kdc.obj : error LNK2005: main уже определен в client.obj
+server.obj : error LNK2005: main уже определен в client.obj
+D:\BGYIR\3kyrs\6sem\ISOB\L3\KerberosProject\x64\Debug\KerberosProject.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
