@@ -1,2 +1,0 @@
-Текущее состояние буфера: cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc 
-Текущее состояние буфера: dd f2 ee 20 f1 f2 f0 ee ea e0 20 f1 20 e1 e5 e7 ee ef e0 f1 ed fb ec 20 e2 e2 ee e4 ee ec 20 e4 eb ff 20 f2 e5 f1 f2 e8 f0 ee e2 e0 ed e8 ff 2e 0 fe 
