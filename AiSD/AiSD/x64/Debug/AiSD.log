@@ -1,0 +1,3 @@
+﻿  AiSD.cpp
+D:\2kyrs\4sem\AiSD\AiSD\AiSD.cpp(31,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  AiSD.vcxproj -> D:\2kyrs\4sem\AiSD\x64\Debug\AiSD.exe
