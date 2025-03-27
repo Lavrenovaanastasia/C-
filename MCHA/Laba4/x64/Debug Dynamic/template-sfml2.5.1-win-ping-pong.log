@@ -1,0 +1,16 @@
+﻿  Системе не удается найти указанный путь.
+  Системе не удается найти указанный путь.
+  Системе не удается найти указанный путь.
+  Системе не удается найти указанный путь.
+  Системе не удается найти указанный путь.
+  Системе не удается найти указанный путь.
+  Не удается найти указанный файл.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(149,5): error MSB3073: выход из команды "copy /Y "D:\2kyrs\MCHA\Laba4\extlibs\bin\x64\sfml-audio-d-2.dll"  "D:\2kyrs\MCHA\Laba4\x64\Debug Dynamic\sfml-audio-d-2.dll"
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(149,5): error MSB3073: copy /Y "D:\2kyrs\MCHA\Laba4\extlibs\bin\x64\sfml-graphics-d-2.dll"  "D:\2kyrs\MCHA\Laba4\x64\Debug Dynamic\sfml-graphics-d-2.dll"
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(149,5): error MSB3073: copy /Y "D:\2kyrs\MCHA\Laba4\extlibs\bin\x64\sfml-network-d-2.dll"  "D:\2kyrs\MCHA\Laba4\x64\Debug Dynamic\sfml-network-d-2.dll"
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(149,5): error MSB3073: copy /Y "D:\2kyrs\MCHA\Laba4\extlibs\bin\x64\sfml-system-d-2.dll"  "D:\2kyrs\MCHA\Laba4\x64\Debug Dynamic\sfml-system-d-2.dll"
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(149,5): error MSB3073: copy /Y "D:\2kyrs\MCHA\Laba4\extlibs\bin\x64\sfml-window-d-2.dll"  "D:\2kyrs\MCHA\Laba4\x64\Debug Dynamic\sfml-window-d-2.dll"
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(149,5): error MSB3073: copy /Y "D:\2kyrs\MCHA\Laba4\extlibs\bin\x64\openal32.dll"  "D:\2kyrs\MCHA\Laba4\x64\Debug Dynamic\openal32.dll"
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(149,5): error MSB3073: mkdir "D:\2kyrs\MCHA\Laba4\x64\Debug Dynamic\resources"
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(149,5): error MSB3073: copy /Y "D:\2kyrs\MCHA\Laba4\resources"  "D:\2kyrs\MCHA\Laba4\x64\Debug Dynamic\resources\"
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(149,5): error MSB3073: :VCEnd" с кодом 1.
