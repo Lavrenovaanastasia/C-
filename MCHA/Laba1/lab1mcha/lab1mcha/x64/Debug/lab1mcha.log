@@ -1,0 +1,14 @@
+﻿  lab1mcha.cpp
+D:\2kyrs\MCHA\lab1mcha\lab1mcha\lab1mcha.cpp(8,14): warning C4244: инициализация: преобразование "unsigned __int64" в "double", возможна потеря данных
+D:\2kyrs\MCHA\lab1mcha\lab1mcha\lab1mcha.cpp(19,85): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+D:\2kyrs\MCHA\lab1mcha\lab1mcha\lab1mcha.cpp(19,58): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+D:\2kyrs\MCHA\lab1mcha\lab1mcha\lab1mcha.cpp(30,58): warning C4244: +=: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+D:\2kyrs\MCHA\lab1mcha\lab1mcha\lab1mcha.cpp(37,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\2kyrs\MCHA\lab1mcha\lab1mcha\lab1mcha.cpp(82,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\2kyrs\MCHA\lab1mcha\lab1mcha\lab1mcha.cpp(127,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\2kyrs\MCHA\lab1mcha\lab1mcha\lab1mcha.cpp(187,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  lab1mcha.vcxproj -> D:\2kyrs\MCHA\lab1mcha\x64\Debug\lab1mcha.exe
